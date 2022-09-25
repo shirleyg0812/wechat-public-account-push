@@ -21,23 +21,23 @@ const USER_CONFIG = {
   // 功能开关,打开：true，关闭：false
   SWITCH:{
     /** 每日天气 */
-    weather: true,
+    weather:true,
 
     /** 节假日 */
     // 下一休息日综合提醒
-    holidaytts: true,
+    holidaytts:true,
 
     /** 每日N句 */
     // 金山每日一句
-    CIBA: true,
+    CIBA:true,
     // 每日一言
-    oneTalk: false,
+    oneTalk:false,
     // 土味情话(彩虹屁)
     earthyLoveWords: false,
     // 朋友圈文案
-    momentCopyrighting: false,
+    momentCopyrighting:false,
     // 毒鸡汤
-    poisonChickenSoup: false,
+    poisonChickenSoup:false,
     // 古诗古文
     poetry: false,
 
@@ -45,7 +45,7 @@ const USER_CONFIG = {
     horoscope: false,
 
     /** 生日消息和节日消息 */
-    birthdayMessage: true,
+    birthdayMessage:true,
 
     // 学生课表
     courseSchedule:false,
