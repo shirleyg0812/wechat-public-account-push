@@ -19,7 +19,7 @@ const USER_CONFIG = {
   IS_SHOW_COLOR: true,
 
   // 功能开关,打开：true，关闭：false
-  SWITCH: {
+  SWITCH:{
     /** 每日天气 */
     weather: true,
 
@@ -48,7 +48,7 @@ const USER_CONFIG = {
     birthdayMessage: true,
 
     // 学生课表
-    courseSchedule: false,
+    courseSchedule:false,
   },
 
   /** 每日一言 */
