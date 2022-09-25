@@ -15,7 +15,7 @@ const USER_CONFIG = {
   APP_SECRET: '95cdf6dfb7486070507d12aee30f3548',
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
-  // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
+  // 如果您使用了微信测试号的模板中含有emoji表情，请填false
   IS_SHOW_COLOR: true,
 
   // 功能开关,打开：true，关闭：false
@@ -55,7 +55,7 @@ const USER_CONFIG = {
 
   // 每日一言的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: '""',
+  LITERARY_PREFERENCE: '动画',
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
